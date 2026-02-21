@@ -1,0 +1,20 @@
+﻿Technologia;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;%_wymagane;moje_umiejetnosci;%_tak_przy_odpowiedzi
+Tableau;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;tak;tak;nie;nie;nie;nie;18%;tak;17%
+Power BI;nie;nie;tak;tak;tak;tak;tak;tak;nie;nie;tak;nie;tak;nie;nie;nie;nie;nie;47%;tak;44%
+DAX;nie;nie;nie;nie;tak;nie;nie;tak;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;18%;tak;17%
+Power Query;tak;nie;nie;nie;tak;nie;nie;tak;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;24%;tak;22%
+Excel;tak;tak;tak;tak;tak;nie;nie;nie;tak;tak;nie;tak;tak;tak;tak;tak;tak;tak;82%;tak;78%
+T-SQL;nie;tak;nie;nie;nie;nie;tak;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;18%;nie;17%
+SQL;tak;tak;nie;nie;tak;nie;tak;tak;nie;tak;nie;nie;tak;tak;nie;nie;nie;tak;53%;tak;50%
+Google Sheets;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;tak;nie;tak;18%;tak;17%
+narzędzia statystyczne (SPSS, SAS);tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;6%;nie;6%
+VBA / Scripts;tak;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;12%;nie;11%
+ERP/SAP;nie;nie;nie;tak;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;12%;nie;11%
+ETL;nie;nie;nie;nie;tak;tak;tak;tak;nie;tak;tak;nie;tak;nie;nie;nie;nie;nie;41%;tak;39%
+D365 F&O;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;6%;nie;6%
+Microsoft Azure Fabric;nie;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;6%;nie;6%
+Integracja danych (Flat files, JSON, XML);nie;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;nie;nie;6%;tak;6%
+Google Analytics;nie;nie;nie;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;6%;tak;6%
+Google Tag Manager;nie;nie;nie;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;6%;nie;6%
+Google Data Studio;nie;nie;nie;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;tak;nie;nie;nie;nie;12%;nie;11%
+BigQuery;nie;nie;nie;nie;nie;nie;nie;nie;nie;tak;nie;nie;nie;nie;nie;nie;nie;nie;6%;nie;6%
