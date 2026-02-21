@@ -1,4 +1,4 @@
-# Analiza procesu rekrutacyjnego -- Dashboard BI
+# Analiza procesu rekrutacyjnego - Dashboard BI
 
 ## Opis projektu
 
@@ -122,9 +122,21 @@ Projekt pokazuje:
 ├── data/
 │   ├── tabela_etapow_procesu.csv
 │   └── tabela_technoligii.csv
-├── docs/
-│   └── screenshots/
+├── screenshots/
 └── README.md
 ```
 
-![Dashboard preview - KPI & map](docs/screenshots/Shark_Incidents_2000-2024.gif)
+## Podgląd dashboardu
+
+### Strona 1 – Podsumowanie procesu
+![Dashboard – Strona 1](screenshots/dashboard_page_1.png)
+
+---
+
+### Strona 2 – Analiza czynników
+![Dashboard – Strona 2](screenshots/dashboard_page_2.png)
+
+---
+
+### Strona 3 – Wnioski końcowe
+![Dashboard – Strona 3](screenshots/dashboard_page_3.png)
